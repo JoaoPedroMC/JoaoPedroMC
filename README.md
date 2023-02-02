@@ -7,13 +7,17 @@ I've created this profile to show some of the projects I'm currently working as 
 - 👯 I’m looking to collaborate on back-end projects to help people and also learn with them.
 
 ### ✉️ Find me on:
-<a href="www.linkedin.com/in/joão-carvalho-a24b0416a" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="Linkedin" height="50" style="vertical-align:top; margin:4px"> </a>
+[<img align="left" alt="LinkedIn" width="22px" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" />][linkedin]
+
+<br />
 
 ### 🧰 Languages and Tools:
-<img src="https://seeklogo.com/images/K/kotlin-logo-6A9E0484CA-seeklogo.com.png" alt="Kotlin" height="50" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" height="50" style="vertical-align:top; margin:4px">
-<img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Golang" height="50" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" alt="AWS" height="50" style="vertical-align:top; margin:4px">
+<img align="left" alt="kotlin" width="26px" src="https://emojis.slackmojis.com/emojis/images/1626243171/47442/kotlin.png?1626243171" />
+<img align="left" alt="python" width="26px" src="https://emojis.slackmojis.com/emojis/images/1450319444/32/python.png?1450319444" />
+<img align="left" alt="GoLang" width="26px" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" />
+<img align="left" alt="aws" width="26px" src="https://emojis.slackmojis.com/emojis/images/1507180554/2988/aws.png?1507180554" />
+
+[linkedin]: www.linkedin.com/in/joão-carvalho-a24b0416a
 
 <!--
 **JoaoPedroMC/JoaoPedroMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
