@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I've created this profile to show some of the projects i'm currently working as i study more and more.
+
+- 🔭 I’m currently working on Itaú, biggest brazilian bank, as a software engineer. I develop for the credit card app, more specifically to personal loan.
+- 🌱 I’m currently learning Kotlin, Golang, Linux and AWS.
+- 👯 I’m looking to collaborate on back-end projects to help people and also learn with them.
+
 <!--
 **JoaoPedroMC/JoaoPedroMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
