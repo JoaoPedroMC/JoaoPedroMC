@@ -2,8 +2,8 @@
 
 I've created this profile to show some of the projects I'm currently working as I study new technologies.
 
-- 🔭 I’m currently working on [Itaú Unibanco](https://www.itau.com.br/) as a software engineer. I develop for the credit card app, more specifically to personal loan.
-- 🌱 I’m currently learning Kotlin, Golang, Terraform and AWS.
+- 🔭 I’m currently working on [Mercado Livre](https://www.mercadolivre.com.br) as a Senior Software Engineer. I develop features for the core transactions of Mercado Pago.
+- 🌱 I’m currently learning Golang, Terraform and AWS.
 - 👯 I’m looking to collaborate on back-end projects to help people and also learn with them.
 
 ### ✉️ Find me on:
